@@ -15,6 +15,9 @@
         <!-- 3. Chamar css do bootstrap -->
         <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 
+        <!-- 3. Icon -->
+	    <link rel="shortcut icon" type="image/png" href="images/favicon.ico"/>
+
     </head>
     
     <!-- BODY XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX-->
